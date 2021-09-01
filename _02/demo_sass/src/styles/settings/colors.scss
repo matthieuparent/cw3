@@ -1,0 +1,18 @@
+/* ==========================================================================
+   COLORS / SETTINGS
+   ========================================================================== */
+
+:root {
+    // Couleur de base
+    --color-white: #fff;
+    --color-black: #000;
+
+    // Couleurs du projet
+    --color-primary: var(--color-black);
+    --color-secondary: #ff9;
+
+    --color-bg-primary: var(--color-white);
+    --color-bg-secondary: #ff9800;
+    --color-bg-tertiary: #ffc107;
+    --color-bg-quaternary: #e64a19;
+}

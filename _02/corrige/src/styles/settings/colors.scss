@@ -1,0 +1,19 @@
+/* ==========================================================================
+   COLORS / SETTINGS
+   ========================================================================== */
+
+:root {
+    // Couleur de base
+    --color-white: #fff;
+    --color-black: #000;
+
+    // Couleurs du projet
+    --color-primary: #a7029a;
+    --color-secondary: darkgray;
+
+    --gradiant-primary: linear-gradient(
+        36deg,
+        rgba(167, 2, 154, 0.7) 0%,
+        rgba(167, 2, 154, 0) 100%
+    );
+}

@@ -1,0 +1,14 @@
+section {
+    padding: var(--spacing-md);
+}
+
+.information {
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .card {
+        width: 31%;
+    }
+}

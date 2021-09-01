@@ -1,0 +1,20 @@
+.cards {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card {
+    background: var(--color-white);
+    border-radius: 4px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin-top: 40px;
+    width: 30%;
+    img {
+        width: 50%;
+    }
+
+    h4 {
+        margin-top: 20px;
+    }
+}

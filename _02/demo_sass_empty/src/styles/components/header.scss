@@ -1,0 +1,20 @@
+.header {
+    background: var(--color-bg-secondary);
+    padding: var(--spacing-sm);
+
+    .wrapper {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    ul {
+        margin: 0;
+        display: flex;
+        list-style: none;
+    }
+}
+.header__nav {
+    a {
+        padding: 10px;
+    }
+}
