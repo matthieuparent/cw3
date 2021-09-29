@@ -1,0 +1,18 @@
+/* ==========================================================================
+   FONTS / SETTINGS
+   ========================================================================== */
+/// Font family
+:root {
+    --font-primary: 'Poppins', sans-serif;
+    --font-secondary: 'Comfortaa', cursive;
+
+    --font-size-content: 16px;
+
+    /// Grosseur des textes
+    --font-size-h1: 24px;
+    --font-size-h2: 48px;
+    --font-size-h3: 48px;
+    --font-size-h4: 24px;
+    --font-size-h5: 1.4rem;
+    --font-size-h6: 1.2rem;
+}
